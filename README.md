@@ -13,15 +13,16 @@ Create a [form on MailChimp](http://kb.mailchimp.com/article/how-can-i-add-my-si
 
 ```css
 .pyro-widget-mailchimp {
-  #mc-embedded-subscribe-form {
-    /* the form element */
-  }
-  #mce-email {
-    /* email input field */
-  }
-  #mc-embedded-subscribe {
-    /* input submit button */
-  }
+  /* the wrapper div on the form */
+}
+#mc-embedded-subscribe-form {
+  /* the form element */
+}
+#mce-email {
+  /* email input field */
+}
+#mc-embedded-subscribe {
+  /* input submit button */
 }
 ```
 
