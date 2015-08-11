@@ -79,7 +79,7 @@ class Widget_MailChimp extends Widgets
 			),
 		array(
 			'field' => 'hidden_value',
-			'label' => 'Hidden Field Value',
+			'label' => 'Hidden Input Field Name',
 			'rules' => 'required'
 			),
 		);
